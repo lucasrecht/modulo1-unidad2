@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    background-color: beige;
+}
+.destacados{
+    font-weight: bold;
+    color: brown;
+}
+p{
+    font-style: italic;
+}
+.lista{
+    font-style: italic;
+    line-height: 20px;
+}
+#caja{
+    background-color: grey;
+    width: 150px;
+    height: 90px;
+    padding: 5px;
+    border: 5px solid black;
+    margin-left: 150px;
+}
