@@ -1,0 +1,45 @@
+.contenedor{
+    height: 600px;
+    width: 600px;
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+   border: 5px solid black;
+}
+.item1{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+    
+    
+    
+}
+.item2{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+}
+.item3{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+    
+}
+span{
+    color: white;
+    align-items: center;
+}
+
+
+
+

@@ -1,0 +1,36 @@
+.contenedor{
+    width: 1000px;
+    background-color: white;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+   border: 5px solid black;
+}
+.item1{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+}
+.item2{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+}
+.item3{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+    
+}
+span{
+    color: white;
+}
